@@ -25,7 +25,7 @@ const config = {
   "header": {
     "tag": "CASE STUDY",
     "title": "How We Helped Empty Nesters Sell Their $2.9M Kleinburg Dream Home in Just 15 Days When They Feared It Would Never Sell",
-    "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now <a href=\"#\">Generating Top-Dollar Rent</a> in a Tight Market"
+    "subheadline": "Purchased in a <strong>High-Demand Area</strong> With Strong Terms—Now Generating Top-Dollar Rent in a Tight Market"
   },
   "mainBox": {
     "summary": {
