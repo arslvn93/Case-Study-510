@@ -18,7 +18,7 @@ const config = {
     ],
     "companyName": "istreet",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "http://youtube.com",
+    "mainCTAButtonURL": "https://calendly.com/rick-istreetrealty/discovery-call?month=2025-08",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2"
   },
