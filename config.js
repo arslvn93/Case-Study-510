@@ -84,7 +84,7 @@ const config = {
       "type": "standard",
       "title": "The Results",
       "paragraphs": [
-        "SOLD IN JUST 15 DAYS (versus 30+ day market average). Generated 12 quality showings from serious, qualified buyers. Attracted buyers from outside the local market who recognized the home's unique value. Achieved a smooth, stress-free transaction with professional buyers who appreciated the property's distinctive features"
+        "SOLD IN JUST 15 DAYS (versus 30+ day market average). Generated 12 quality showings from serious, qualified buyers. Attracted buyers from outside the local market who recognized the home's unique value. Achieved a smooth, stress-free transaction with professional buyers who appreciated the property's distinctive features."
       ],
       "listItems": []
     },
@@ -92,7 +92,7 @@ const config = {
       "type": "standard",
       "title": "Conclusion",
       "paragraphs": [
-        "The right home, staged and presented well, will always sell for top dollar – even in challenging markets. Proper marketing, accurate pricing, and working with professional realtors who understand luxury properties makes all the difference. Market misconceptions can paralyze sellers, but the truth is every home will sell at the right price with the right strategy"
+        "The right home, staged and presented well, will always sell for top dollar – even in challenging markets. Proper marketing, accurate pricing, and working with professional realtors who understand luxury properties makes all the difference. Market misconceptions can paralyze sellers, but the truth is every home will sell at the right price with the right strategy."
       ],
       "listItems": []
     },
