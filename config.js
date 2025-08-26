@@ -16,8 +16,8 @@ const config = {
         ]
       },
       {
-        "name": "",
-        "imageSrc": "",
+        "name": "Steven Simonetti",
+        "imageSrc": "https://cdn.realtor.ca/individual/TS638851638600000000/highres/1053066.jpg",
         "contactDetails": [
           {
             "type": "email",
