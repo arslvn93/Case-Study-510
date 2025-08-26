@@ -45,7 +45,7 @@ const config = {
     "summary": {
       "title": "How We Helped Empty Nesters Sell Their $2.9M Kleinburg Dream Home in Just 15 Days When They Feared It Would Never Sell",
       "heroImage": {
-        "src": "https://iili.io/KdMTPhQ.webp"
+        "src": "https://iili.io/K2FvlEP.webp"
       },
       "subTitle": "Summary",
       "paragraphs": [
