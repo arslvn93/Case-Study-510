@@ -54,7 +54,7 @@ const config = {
       "type": "standard",
       "title": "The Challenge",
       "paragraphs": [
-        "\"We were convinced our home would never sell – everyone kept telling us the luxury market was dead\". The house felt too big and expensive for most buyers, creating overwhelming anxiety about finding the right purchaser. They dreaded the thought of months of disruptions, showings, and the stress of an uncertain selling process. Previous conversations with other agents left them feeling like their home was overpriced and unsellable\""
+        "\"We were convinced our home would never sell – everyone kept telling us the luxury market was dead\". The house felt too big and expensive for most buyers, creating overwhelming anxiety about finding the right purchaser. They dreaded the thought of months of disruptions, showings, and the stress of an uncertain selling process. Previous conversations with other agents left them feeling like their home was overpriced and unsellable."
       ],
       "listItems": []
     },
