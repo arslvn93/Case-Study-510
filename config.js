@@ -76,7 +76,7 @@ const config = {
         "After hearing about our proven track record with luxury properties and meeting with us personally, they realized they needed an agent who understood both the emotional and financial stakes of their move. Our reputation for professionalism, integrity, and delivering exactly what we promise gave them the confidence to move forward when they had almost given up hope."
       ],
       "image": {
-        "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=800&q=80"
+        "src": "https://iili.io/KdMcN0Q.webp"
       },
       "listItems": []
     },
