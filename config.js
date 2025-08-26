@@ -14,6 +14,20 @@ const config = {
             "value": "416-410-2880"
           }
         ]
+      },
+      {
+        "name": "",
+        "imageSrc": "",
+        "contactDetails": [
+          {
+            "type": "email",
+            "value": "steven@istreetrealty.ca"
+          },
+          {
+            "type": "phone",
+            "value": "416-410-7653"
+          }
+        ]
       }
     ],
     "companyName": "istreet",
