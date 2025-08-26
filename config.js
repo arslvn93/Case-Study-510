@@ -101,7 +101,7 @@ const config = {
       "ctaBannerContent": {
         "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
         "headline": "Schedule Your Complimentary Luxury Home Selling Strategy Session – Get Your Personalized Market Analysis and Discover Exactly What Your Home Could Sell For in Today's Market",
-        "smallText": "Book A Discovery Call Now ➡️"
+        "smallText": "Book A Discovery Call Now "
       }
     }
   ],
