@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
           if (agent && agent.name && agent.contactDetails && Array.isArray(agent.contactDetails)) {
             let agentBlockHTML = '';
             if (agent.imageSrc) {
-              agentBlockHTML += `<img src="${agent.imageSrc}" alt="" class="sidebar-agent-photo">`;
+              agentBlockHTML += `<img src="${agent.imageSrc}" alt="" class="sidebar-agent-photo hide-agent-image">`;
             }
             
             let agentDetailsHTML = `<div class="sidebar-agent-info">`;
