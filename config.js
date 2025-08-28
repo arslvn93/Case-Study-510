@@ -16,7 +16,7 @@ const config = {
         ]
       },
       {
-        "name": "Steven Simonetti",
+        "name": "",
         "imageSrc": "",
         "contactDetails": [
           {
