@@ -3,7 +3,7 @@ const config = {
     "agents": [
       {
         "name": "Rick Roccasalva",
-        "imageSrc": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/KyeQTgnX03giMLGAsQCM/media/681d180c6b471c48f7980705.webp",
+        "imageSrc": "",
         "contactDetails": [
           {
             "type": "email",
