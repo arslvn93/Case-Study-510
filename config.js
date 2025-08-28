@@ -16,8 +16,8 @@ const config = {
         ]
       },
       {
-        "name": "Steven Simonetti",
-        "imageSrc": "https://cdn.realtor.ca/individual/TS638851638600000000/highres/1053066.jpg",
+        "name": "",
+        "imageSrc": "",
         "contactDetails": [
           {
             "type": "email",
@@ -114,7 +114,7 @@ const config = {
       "type": "ctaBanner",
       "ctaBannerContent": {
         "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
-        "headline": "Schedule Your Complimentary Luxury Home Selling Strategy Session – Get Your Personalized Market Analysis and Discover Exactly What Your Home Could Sell For in Today's Market",
+        "headline": "Find Out More About Working With Rick Roccasalva and Steven Simonetti at iStreet Realty Group",
         "smallText": "Book A Discovery Call Now "
       }
     }
