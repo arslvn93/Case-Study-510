@@ -98,7 +98,7 @@ const config = {
       "type": "standard",
       "title": "The Results",
       "paragraphs": [
-        "SOLD IN JUST 15 DAYS (versus 30+ day market average).Generated 12 quality showings from serious, qualified buyers. Attracted buyers from outside the local market who recognized the home's unique value. Achieved a smooth, stress-free transaction with professional buyers who appreciated the property's distinctive features."
+        "SOLD IN JUST 15 DAYS (versus 30+ day market average). Generated 12 quality showings from serious, qualified buyers. Attracted buyers from outside the local market who recognized the home's unique value. Achieved a smooth, stress-free transaction with professional buyers who appreciated the property's distinctive features."
       ],
       "listItems": []
     },
