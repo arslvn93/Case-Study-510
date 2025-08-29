@@ -11,7 +11,7 @@ const config = {
           },
           {
             "type": "phone",
-            "value": "416-410-2880"
+            "value": "(416) 616-9369"
           }
         ]
       },
@@ -25,7 +25,7 @@ const config = {
           },
           {
             "type": "phone",
-            "value": "416-410-7653"
+            "value": "(416) 400-7653"
           }
         ]
       }
