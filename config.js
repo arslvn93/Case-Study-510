@@ -79,7 +79,7 @@ const config = {
         "Priced strategically at current market value rather than inflated hopes, ensuring serious buyer interest from day one. Showcased the home's crown jewels through professional photography and video tours that highlighted the extensive landscaping, sparkling pool, and beautifully renovated kitchen. Launched targeted digital advertising campaigns that reached qualified buyers both locally and from out-of-town markets. Created urgency by emphasizing the property's rare features: 5 spacious bedrooms, soaring ceilings uncommon in the area, and resort-style outdoor living spaces. Orchestrated strategic open houses that attracted serious, pre-qualified buyers rather than casual lookers"
       ],
       "testimonial": {
-        "quote": "\"We trust you completely. You delivered exactly what you said you would. When we first met, we thought our home would never sell and we'd be stuck with all this stress and uncertainty. Rick made the entire process effortless – no drama, no surprises, just results. We're now happily settled in our new smaller home closer to our children, and we couldn't be more grateful for how smoothly everything went.\"<br><span>— Satisfied Client</span>"
+        "quote": "\"We trust you completely. You delivered exactly what you said you would. When we first met, we thought our home would never sell and we'd be stuck with all this stress and uncertainty. Rick and Steve made the entire process effortless – no drama, no surprises, just results. We're now happily settled in our new smaller home closer to our children, and we couldn't be more grateful for how smoothly everything went.\"<br><span>— Satisfied Client</span>"
       },
       "listItems": []
     },
