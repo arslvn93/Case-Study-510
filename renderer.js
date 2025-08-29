@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     headerElement.innerHTML = `
       <div class="header-content-wrapper">
-        <div class="case-study-tag">${processTemplateString(headerData.tag || '')}</div>
+        <img class="footer-logo-main" src="${config.footer.logo.src}" alt="Company Logo" style="display: block; margin: 0 auto;">
         <h1>${processTemplateString(headerData.title || '')}</h1>
         <div class="subheadline">${subheadlineHTML}</div>
         <a href="${ctaButtonURL}" class="discovery-btn-link"><button class="discovery-btn">${getGlobal('mainCTAButtonText') || 'Book A Discovery Call'}</button></a>
