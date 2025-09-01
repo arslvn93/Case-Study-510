@@ -49,7 +49,7 @@ const config = {
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "Meet this Kleinburg family – successful professionals whose children had all moved out, leaving them with a beautiful but oversized 5-bedroom home in prestigious Kleinburg. Like many empty nesters, they found themselves rattling around in a house that no longer fit their lifestyle, but they were paralyzed by fear about selling in what seemed like an impossible market.",
+        "Meet this Kleinburg family – a successful professional whose children had all moved out, leaving them with a beautiful but oversized 5-bedroom home in prestigious Kleinburg. Like many empty nesters, she found herself rattling around in a house that no longer fit her lifestyle, but she was paralyzed by fear about selling in what seemed like an impossible market.",
         "Through professional service and market expertise, we delivered exceptional results for our client. SOLD IN JUST 15 DAYS (versus 30+ day market average). Generated 12 quality showings from serious, qualified buyers. Attracted buyers from outside the local market who recognized the home's unique value. Achieved a smooth, stress-free transaction with professional buyers who appreciated the property's distinctive features."
       ]
     },
